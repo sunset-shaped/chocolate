@@ -3,3 +3,9 @@
 .import/
 export.cfg
 export_presets.cfg
+
+#Mac stinky
+.DS_Store
+
+#pck files
+*.pck
